@@ -1,5 +1,5 @@
 # Modern JavaScript 2.0 Projects
-Theses are my attempts at the projects from the course course [Modern JavaScript from the Beginning 2.0](https://www.traversymedia.com/modern-javascript-2-0)) course by [Brad Traversy.](https://www.linkedin.com/in/bradtraversy/)
+Theses are my attempts at the projects from the [Modern JavaScript from the Beginning 2.0](https://www.traversymedia.com/modern-javascript-2-0) course by [Brad Traversy.](https://www.linkedin.com/in/bradtraversy/)
 
 If this looks familar, I started the first versions of this course in 2021 and got about ~40% done, wish me better luck this time 😁
 
