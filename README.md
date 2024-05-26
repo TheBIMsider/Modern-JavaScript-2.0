@@ -9,3 +9,4 @@ This is a 37+ hour in-depth course that will take you from the absolute beginnin
 The course is available on udemy and other locations, but if you get it from Brad's site like I did there is some cool extras.
 
 ## Projects
+ Watch this space...more to come soon 😉
